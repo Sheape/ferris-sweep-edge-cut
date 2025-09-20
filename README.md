@@ -1,5 +1,6 @@
 # Sweep2.1
-![](/gallery/sweep-2.1.jpg)
+![rotated_image](https://github.com/user-attachments/assets/bca2f123-c1f4-4bde-9eb1-fb6d94dac636)
+
 
 This is the main Choc v1 board we all know and love.
 
